@@ -1,0 +1,21 @@
+body {
+    font-family: Helvetica, arial, freesans, clean, sans-serif;
+    background-color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 1.6em;
+    margin: 0 0;
+}
+
+.top-bar {
+    padding: 3px;
+    background-color: #ddd;
+    height: 37px;
+}
+
+.top-bar h1 {
+    padding-top: 4px;
+}

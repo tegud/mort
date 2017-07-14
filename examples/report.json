@@ -1,0 +1,9 @@
+{
+    "title": "Example Post Mortem",
+    "incidentStart": "2017-07-13T04:33:12Z",
+    "incidentEnd": "2017-07-13T04:38:12Z",
+    "postMortemDate": "2017-07-14:14:00:00Z",
+    "timeline": [],
+    "rootCauseAnalyis": [],
+    "actions": []
+}
